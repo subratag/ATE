@@ -28,6 +28,6 @@ I = second, third, ... word of an aspect (Inside)
 ```
 
 ## Required Libraries:
-NLTK, Sklearn, Pandas, matplotlib, Stanfordcorenlp
+NLTK, Sklearn, Pandas, matplotlib, Stanford corenlp
 
 
